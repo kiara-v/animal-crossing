@@ -1,6 +1,6 @@
 # Animal Crossing - Wave Function Collapse
 
-![Animal Crossing Scene Generator](https://kiara-v.github.io/animal-crossing/img/sample.png)
+![Link to Demo](https://kiara-v.github.io/animal-crossing)
 
 ## Overview
 
