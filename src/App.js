@@ -14,7 +14,7 @@ import TileModel from './Tile';
 
 import Clouds from './Clouds';
 
-import * as DomEvent from './threex.domevents/threex.domevents';
+import * as DomEvent from 'threex.domevents';
 import * as THREE from 'three';
 	
 const d60 = 2*Math.PI/6;
