@@ -1,0 +1,36 @@
+html, body { height: 100% }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+  font-size: small;
+  width: 100%;
+  position: absolute;
+  z-index: 3;
+}
+
+.github {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 3;
+}
+
+#root {
+  user-select: none;
+  height: 100%;
+}
