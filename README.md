@@ -1,6 +1,6 @@
 # Animal Crossing - Wave Function Collapse
 
-![Link to Demo](https://kiara-v.github.io/animal-crossing)
+![Link to Demo]<https://kiara-v.github.io/animal-crossing/>
 
 ## Overview
 
