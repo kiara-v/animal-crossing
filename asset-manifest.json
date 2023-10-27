@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/animal-crossing/static/css/main.771531cc.css",
+    "main.js": "/animal-crossing/static/js/main.73a9a531.js",
+    "static/media/rock.vert": "/animal-crossing/static/media/rock.e0ae0096033f16576ec6.vert",
+    "index.html": "/animal-crossing/index.html",
+    "main.771531cc.css.map": "/animal-crossing/static/css/main.771531cc.css.map",
+    "main.73a9a531.js.map": "/animal-crossing/static/js/main.73a9a531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771531cc.css",
+    "static/js/main.73a9a531.js"
+  ]
+}
